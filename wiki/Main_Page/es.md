@@ -1,6 +1,8 @@
 ---
 layout: main_page
 no_native_review: true
+outdated: true
+outdated_since: cc2b4d9b778210b6ca3c521f06d3cb36ca7b316e
 ---
 
 <!-- Translated to Latin American Spanish, there it might be some differences with Castilian. Most possibly, it seems more like Chilean Spanish. -->
