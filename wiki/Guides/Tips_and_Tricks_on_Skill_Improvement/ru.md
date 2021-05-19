@@ -213,7 +213,7 @@ P.S. Этот раздел несколько устарел. Теперь мо�
 - [07th Expansion - Rougoku (Insane)](https://osu.ppy.sh/beatmaps/35031&m=0)
 - [IOSYS - Kitto Mou Hatarakanai (Lunatic)](https://osu.ppy.sh/beatmaps/131006&m=0)
 - [SYNC.ART'S - Garasu no Kairou (Nightmare)](https://osu.ppy.sh/beatmaps/172456&m=0)
-[Camille Saint-saens & FIRST AID - D2 (Maximum)](https://osu.ppy.sh/beatmaps/76880&m=1)
+- [Camille Saint-saens & FIRST AID - D2 (Maximum)](https://osu.ppy.sh/beatmaps/76880&m=1)
 - [Comp - Kyoai (Insane)](https://osu.ppy.sh/beatmaps/105806&m=1)
 - [xi - Parousia (Another)](https://osu.ppy.sh/beatmaps/283607&m=0)
 - [Rche - Todestrieb (Another)](https://osu.ppy.sh/beatmaps/129555&m=0)
