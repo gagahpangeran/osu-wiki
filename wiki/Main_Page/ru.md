@@ -13,7 +13,7 @@ outdated_since: cc2b4d9b778210b6ca3c521f06d3cb36ca7b316e
 
 # Начало работы
 
-[Добро пожаловать](/wiki/Welcome) • [Установка](/wiki/Installation) • [Регистрация](/wiki/Registration) • [Центр помощи](/wiki/Help_Centre) • [FAQ](/wiki/FAQ)
+[Установка](/wiki/Installation) • [Регистрация](/wiki/Registration) • [Центр помощи](/wiki/Help_Centre) • [FAQ](/wiki/FAQ)
 
 </div>
 <div class="wiki-main-page-panel">
