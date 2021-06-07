@@ -1,6 +1,6 @@
 # Welcome
 
-Welcome to osu!, a free-to-win rhythm game developed by peppy with four game modes: the osu! mode, a circle clicking simulator; osu!taiko, a drumming emulator; osu!catch, a fruit salad catcher; and osu!mania, a key smashing synthesizer.
+Welcome to osu![^1], a free-to-win rhythm game developed by peppy with four game modes: the osu! mode, a circle clicking simulator; osu!taiko, a drumming emulator; osu!catch, a fruit salad catcher; and osu!mania, a key smashing synthesizer.
 
 ## Common points of interest
 
@@ -45,3 +45,5 @@ Skinning allows anyone to change the way osu! looks and feels. This can be as sm
 Since 2016-08-26, the osu! wiki has moved to a GitHub repository. After this change, the workflow has drastically changed. All contributions now go through the [osu-wiki GitHub repository](https://github.com/ppy/osu-wiki) and are reviewed before being approved and merged to the osu! wiki.
 
 To get started, see the [osu! wiki Contribution Guide](/wiki/osu!_wiki_Contribution_Guide).
+
+[^1]: please enjoy the game
