@@ -13,7 +13,7 @@ Welcome to osu! [^1], a free-to-win rhythm game[^2] developed by peppy with four
   - ![osu!taiko icon](/wiki/shared/mode/taiko.png) [osu!taiko](/wiki/Game_mode/osu!taiko)
   - ![osu!catch icon](/wiki/shared/mode/catch.png) [osu!catch](/wiki/Game_mode/osu!catch)
   - ![osu!mania icon](/wiki/shared/mode/mania.png) [osu!mania](/wiki/Game_mode/osu!mania)
-- [Multi](/wiki/Multi)
+- [Multi](/wiki/Multi) [^custom]
 - [Ranking Criteria](/wiki/Ranking_Criteria)
   - ![osu! icon](/wiki/shared/mode/osu.png) [osu!](/wiki/Ranking_Criteria/osu!)
   - ![osu!taiko icon](/wiki/shared/mode/taiko.png) [osu!taiko](/wiki/Ranking_Criteria/osu!taiko)
@@ -49,3 +49,4 @@ To get started, see the [osu! wiki Contribution Guide](/wiki/osu!_wiki_Contribut
 [^1]: please enjoy the game
 [^2]: disclaimer
 [^3]: Try here
+[^custom]: Custom
