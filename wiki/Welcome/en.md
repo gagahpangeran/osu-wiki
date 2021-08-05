@@ -53,12 +53,12 @@ There are some cases where the content is allowed to differ:
 - Articles originally written in a language other than English (in this case, English should act as the translation)
 - Explanations of English words that are common terms in the osu! community
 - External links
-- Tags
+- Tags[^tags]
 - Subcommunity-specific explanations
 
 ## Front matter
 
-Front matter must be placed at the very top of the file. It is written in [YAML](https://en.wikipedia.org/wiki/YAML#Example "YAML Wikipedia article") and describes additional information about the article. This must be surrounded by three hyphens (`---`) on the lines above and below it, and an empty line must follow it before the title heading.
+Front matter[^cite] must be placed at the very top of the file. It is written in [YAML](https://en.wikipedia.org/wiki/YAML#Example "YAML Wikipedia article") and describes additional information about the article. This must be surrounded by three hyphens (`---`) on the lines above and below it, and an empty line must follow it before the title heading.
 
 ### Articles that need help
 
@@ -774,3 +774,5 @@ These must have an empty line before and after the markup. Thematic breaks must 
 ## Reference
 
 [^locales]: This list is based on [ISO 639-1](https://en.wikipedia.org/wiki/ISO_639-1)
+[^tags]: https://www.urbandictionary.com/define.php?term=Tags _Be careful to open this link_
+[^cite]: ***Need citation!!!***
