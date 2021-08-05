@@ -64,7 +64,7 @@ Front matter[^cite] must be placed at the very top of the file. It is written in
 
 *Note: Avoid translating English articles with this tag. In addition to this, this tag should be added when the translation needs its own clean up.*
 
-The `needs_cleanup` tag may be added to articles that need rewriting or formatting help. It is also acceptable to open an issue on GitHub for this purpose. This tag must be written as shown below:
+The `needs_cleanup` tag may be added to articles that need rewriting or formatting help[^help]. It is also acceptable to open an issue on GitHub for this purpose. This tag must be written as shown below:
 
 ```yaml
 needs_cleanup: true
@@ -76,7 +76,7 @@ When adding this tag to an article, [comments](#comments) should also be added t
 
 *Note: Avoid translating English articles with this tag. If the English article has this tag, the translation must also have this tag.*
 
-Translated articles that are outdated must use the `outdated` tag when the English variant is updated. English articles may also become outdated when the content they contain is misleading or no longer relevant. This tag must be written as shown below:
+Translated articles that are outdated must use the `outdated` tag when the English variant[^variant] is updated. English articles may also become outdated when the content they contain is misleading or no longer relevant. This tag must be written as shown below:
 
 ```yaml
 outdated: true
@@ -86,7 +86,7 @@ When adding this tag to an article, [comments](#comments) should also be added t
 
 ### Tagging articles
 
-Tags help the website's search engine query articles better. Tags should be written in the same language as the article and include the original list of tags. Tags should use lowercase letters where applicable.
+Tags help the website's search engine[^search] query articles better. Tags should be written in the same language as the article and include the original list of tags. Tags should use lowercase letters where applicable.
 
 For example, an article called "Beatmap discussion" may include the following tags:
 
@@ -776,3 +776,6 @@ These must have an empty line before and after the markup. Thematic breaks must 
 [^locales]: This list is based on [ISO 639-1](https://en.wikipedia.org/wiki/ISO_639-1)
 [^tags]: https://www.urbandictionary.com/define.php?term=Tags _Be careful to open this link_
 [^cite]: ***Need citation!!!***
+[^help]: Help!!! Help!!!
+[^variant]: *What is variant?*
+[^search]: For example google
