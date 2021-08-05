@@ -773,4 +773,4 @@ These must have an empty line before and after the markup. Thematic breaks must 
 
 ## Reference
 
-[^locales]: This list is based on [https://en.wikipedia.org/wiki/ISO_639-1](ISO 639-1)
+[^locales]: This list is based on [ISO 639-1](https://en.wikipedia.org/wiki/ISO_639-1)
