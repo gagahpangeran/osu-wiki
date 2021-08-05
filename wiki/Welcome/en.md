@@ -6,7 +6,7 @@
 
 ## Locales
 
-Listed below are the properly-supported locales for the wiki:
+Listed below are the properly-supported locales[^locales] for the wiki:
 
 | File Name | Locale Name | Native Script |
 | :-- | :-- | :-- |
@@ -770,3 +770,7 @@ These must have an empty line before and after the markup. Thematic breaks must 
 ```markdown
 ---
 ```
+
+## Reference
+
+[^locales]: This list is based on [https://en.wikipedia.org/wiki/ISO_639-1](ISO 639-1)
