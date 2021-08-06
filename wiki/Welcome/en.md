@@ -101,7 +101,7 @@ tags:
 
 *Note: Wiki maintainers will determine and apply this mark prior to merging.*
 
-Sometimes, translations are added to the wiki without review from other native speakers of the language. In this case, the `no_native_review` mark is added to let future translators know that it may need to be checked again. This tag must be written as shown below:
+Sometimes, translations are added to the wiki without review[^long] from other native speakers of the language. In this case, the `no_native_review` mark is added to let future translators know that it may need to be checked again. This tag must be written as shown below:
 
 ```yaml
 no_native_review: true
@@ -779,3 +779,4 @@ These must have an empty line before and after the markup. Thematic breaks must 
 [^help]: Help!!! Help!!!
 [^variant]: *What is variant?*
 [^search]: For example google
+[^long]: Very long reference. *Retrieved 2021-08-06* by **GPR**. Please visit https://osu.ppy.sh to play free-to-win games.
