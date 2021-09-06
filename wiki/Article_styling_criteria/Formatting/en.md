@@ -6,7 +6,7 @@
 
 ## Locales
 
-Listed below are the properly-supported locales for the wiki:
+Listed below are the properly-supported locales[^locales] for the wiki:
 
 | File Name | Locale Name | Native Script |
 | :-- | :-- | :-- |
@@ -53,18 +53,18 @@ There are some cases where the content is allowed to differ:
 - Articles originally written in a language other than English (in this case, English should act as the translation)
 - Explanations of English words that are common terms in the osu! community
 - External links
-- Tags
+- Tags[^tags]
 - Subcommunity-specific explanations
 
 ## Front matter
 
-Front matter must be placed at the very top of the file. It is written in [YAML](https://en.wikipedia.org/wiki/YAML#Example "YAML Wikipedia article") and describes additional information about the article. This must be surrounded by three hyphens (`---`) on the lines above and below it, and an empty line must follow it before the title heading.
+Front matter[^cite] must be placed at the very top of the file. It is written in [YAML](https://en.wikipedia.org/wiki/YAML#Example "YAML Wikipedia article") and describes additional information about the article. This must be surrounded by three hyphens (`---`) on the lines above and below it, and an empty line must follow it before the title heading.
 
 ### Articles that need help
 
 *Note: Avoid translating English articles with this tag. In addition to this, this tag should be added when the translation needs its own clean up.*
 
-The `needs_cleanup` tag may be added to articles that need rewriting or formatting help. It is also acceptable to open an issue on GitHub for this purpose. This tag must be written as shown below:
+The `needs_cleanup` tag may be added to articles that need rewriting or formatting help[^help]. It is also acceptable to open an issue on GitHub for this purpose. This tag must be written as shown below:
 
 ```yaml
 needs_cleanup: true
@@ -76,7 +76,7 @@ When adding this tag to an article, [comments](#comments) should also be added t
 
 *Note: Avoid translating English articles with this tag. If the English article has this tag, the translation must also have this tag.*
 
-Translated articles that are outdated must use the `outdated` tag when the English variant is updated. English articles may also become outdated when the content they contain is misleading or no longer relevant. This tag must be written as shown below:
+Translated articles that are outdated must use the `outdated` tag when the English variant[^variant] is updated. English articles may also become outdated when the content they contain is misleading or no longer relevant. This tag must be written as shown below:
 
 ```yaml
 outdated: true
@@ -86,7 +86,7 @@ When adding this tag to an article, [comments](#comments) should also be added t
 
 ### Tagging articles
 
-Tags help the website's search engine query articles better. Tags should be written in the same language as the article and include the original list of tags. Tags should use lowercase letters where applicable.
+Tags help the website's search engine[^search] query articles better. Tags should be written in the same language as the article and include the original list of tags. Tags should use lowercase letters where applicable.
 
 For example, an article called "Beatmap discussion" may include the following tags:
 
@@ -101,7 +101,7 @@ tags:
 
 *Note: Wiki maintainers will determine and apply this mark prior to merging.*
 
-Sometimes, translations are added to the wiki without review from other native speakers of the language. In this case, the `no_native_review` mark is added to let future translators know that it may need to be checked again. This tag must be written as shown below:
+Sometimes, translations are added to the wiki without review[^long] from other native speakers of the language. In this case, the `no_native_review` mark is added to let future translators know that it may need to be checked again. This tag must be written as shown below:
 
 ```yaml
 no_native_review: true
@@ -312,28 +312,7 @@ Section headings must use levels 2 to 5. The section heading proceeding the [tit
 
 Section headings must not skip a heading level (i.e. do not go from a level 2 heading to a level 4 heading) and must not contain formatting or links.
 
-*Notice: On the website, heading levels 4 and 5 will not appear in the table of contents.*
-
-### Custom identifiers
-
-It is possible to redefine a section's identifier, which is used for linking to it directly. Custom identifiers should be used in case the automatically generated ones are too long or contain tricky punctuation marks or images:
-
-<!-- TODO: remove the {id=...} example when https://github.com/ppy/osu-web/issues/8057 is closed -->
-
-```markdown
-## My cooldown has passed. How do I appeal? {#appeal}
-
-## Common restriction reasons and cooldowns {#common-reasons}
-
-## Ideas for a multiplayer match {id=идеи-для-мультиплеера} <!-- alternative syntax for Unicode identifiers -->
-```
-
-This feature can also be used for tagging a specific part of the article which doesn't have a heading. Use it sparingly:
-
-```markdown
-> That's it! You're well on your way to becoming an osu! rhythm champion!
-{#tutorial-quote}
-```
+*Notice: On the website, heading levels 4 and 5 will not appear in the table of contents. They cannot be linked to directly either.*
 
 ## Lists
 
@@ -791,3 +770,13 @@ These must have an empty line before and after the markup. Thematic breaks must 
 ```markdown
 ---
 ```
+
+## Reference
+
+[^locales]: This list is based on [ISO 639-1](https://en.wikipedia.org/wiki/ISO_639-1)
+[^tags]: https://www.urbandictionary.com/define.php?term=Tags _Be careful to open this link_
+[^cite]: ***Need citation!!!***
+[^help]: Help!!! Help!!!
+[^variant]: *What is variant?*
+[^search]: For example google
+[^long]: Very long reference. *Retrieved 2021-08-06* by **GPR**. Please visit https://osu.ppy.sh to play free-to-win games.
