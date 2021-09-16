@@ -410,7 +410,7 @@ The `osu!direct` button is visible in the main menu on the right side, if you ha
 
 ### Folder and directory names
 
-When copying the name of a folder or directory, the letter casing should be copied as it appears, but prefer lowercased paths when possible. Directory paths must not be absolute (i.e. do not start the directory name from the drive letter or from the root folder). (Example shown below.)
+When copying the name of a folder or directory, the letter casing should be copied as it appears[^shared], but prefer lowercased paths when possible. Directory paths must not be absolute (i.e. do not start the directory name from the drive letter or from the root folder). (Example shown below.)
 
 ```markdown
 osu! is installed in the `AppData/Local` folder by default, unless specified otherwise during installation.
@@ -478,7 +478,7 @@ The following is an example of the reference style:
 
 ---
 
-Links must use the inline style if they are only referenced once. The inline angle brackets style should be avoided. References to reference links must be placed at the bottom of the article.
+Links must use the inline style if they are only referenced once. The inline angle brackets style[^shared] should be avoided. References to reference links must be placed at the bottom of the article.
 
 ### Internal links
 
@@ -780,3 +780,4 @@ These must have an empty line before and after the markup. Thematic breaks must 
 [^variant]: *What is variant?*
 [^search]: For example google
 [^long]: Very long reference. *Retrieved 2021-08-06* by **GPR**. Please visit https://osu.ppy.sh to play free-to-win games.
+[^shared]: This is shared references.
