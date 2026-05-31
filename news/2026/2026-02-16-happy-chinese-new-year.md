@@ -162,6 +162,18 @@ To celebrate the occasion, we sat down with several prominent figures from the s
 
 As one of osu!'s most prominent content creators and a notable Chinese-American figure, [BTMC](https://osu.ppy.sh/users/3171691) has made immense contributions to the global community. His success demonstrates how a shared passion for the game can resonate across all cultural boundaries.
 
+::: Chat Quote
+:::: Chat Quote Avatar
+[![FcEazy](/wiki/shared/avatars/FcEazy.jpg)](https://osu.ppy.sh/users/7825227)
+::::
+
+:::: Chat Quote Username
+[FcEazy](https://osu.ppy.sh/users/7825227)
+::::
+
+As a Chinese American, you have a unique perspective on both Western and Eastern communities. When you see fans from the Chinese-speaking scene supporting your content or even using your memes, does it feel different to know that your influence reaches so far across cultural lines?
+:::
+
 <div class="news-chat-quote__text-container">
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/7825227" style="background-image: url('/wiki/shared/avatars/FcEazy.jpg')"></a>
