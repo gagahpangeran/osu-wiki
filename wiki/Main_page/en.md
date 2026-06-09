@@ -2,14 +2,14 @@
 layout: main_page
 ---
 
-<!-- Do not add any empty lines inside this div. -->
+<!-- wip 8. Do not add any empty lines inside this div. -->
 
-<div class="wiki-main-page__blurb">
+::: blurb
 Welcome to the osu! wiki, the open-source knowledge base containing a wide range of information related to osu!, a free-to-win rhythm game.
-</div>
+:::
 
-<div class="wiki-main-page__panels">
-<div class="wiki-main-page-panel wiki-main-page-panel--full">
+::: panels
+:::: panel panel--full
 
 # Getting started
 
@@ -19,8 +19,8 @@ Important articles and guides that will help you dive into osu!. In case anythin
 
 [Chat console](/wiki/Client/Interface/Chat_console) • [BanchoBot](/wiki/BanchoBot) • [FAQ](/wiki/FAQ) • [Guides](/wiki/Guides) • [Glossary](/wiki/Sitemap)
 
-</div>
-<div class="wiki-main-page-panel">
+::::
+:::: panel
 
 # Game client
 
@@ -30,8 +30,8 @@ Being the guide to the world of rhythm, beats, and flashes, osu! has a lot to pr
 
 [File formats](/wiki/Client/File_formats): [.osz](/wiki/Client/File_formats/osz_(file_format)) • [.osk](/wiki/Client/File_formats/osk_(file_format)) • [.osr](/wiki/Client/File_formats/osr_(file_format)) • [.osu](/wiki/Client/File_formats/osu_(file_format)) • [.osb](/wiki/Client/File_formats/osb_(file_format))
 
-</div>
-<div class="wiki-main-page-panel">
+::::
+:::: panel
 
 # Gameplay
 
@@ -41,8 +41,8 @@ Everything about clicking circles, striking drums, catching fruits, and playing 
 
 [Beatmap](/wiki/Beatmap) • [Difficulty](/wiki/Beatmap/Difficulty) • [Hit object](/wiki/Gameplay/Hit_object) • [Mods](/wiki/Gameplay/Game_modifier) • [Mods (lazer)](/wiki/Gameplay/Game_modifier_(lazer)) • [Score](/wiki/Gameplay/Score) • [Replay](/wiki/Gameplay/Replay) • [Medals](/wiki/Medals) • [Multiplayer](/wiki/Client/Interface/Multiplayer) • [Daily challenge](/wiki/Gameplay/Daily_challenge) • [Quick play](/wiki/Gameplay/Quick_play)
 
-</div>
-<div class="wiki-main-page-panel">
+::::
+:::: panel
 
 # [Beatmap editor](/wiki/Client/Beatmap_editor)
 
@@ -54,8 +54,8 @@ Components: [AiMod](/wiki/Client/Beatmap_editor/AiMod) • [Beat snap divisor](/
 
 Activities: [Beatmapping](/wiki/Beatmapping) • [Mapping techniques](/wiki/Beatmapping/Mapping_techniques) • [Storyboarding](/wiki/Storyboard#storyboarding) • [Skinning](/wiki/Skinning)
 
-</div>
-<div class="wiki-main-page-panel">
+::::
+:::: panel
 
 # Beatmap submission and ranking
 
@@ -65,8 +65,8 @@ Ranking is the process of obtaining a leaderboard for a beatmap, which makes it 
 
 [Ranking criteria](/wiki/Ranking_criteria): [Simplified](/wiki/Ranking_criteria/Simplified_ranking_criteria) • [Metadata](/wiki/Ranking_criteria/Metadata) • [osu!](/wiki/Ranking_criteria/osu!) • [osu!taiko](/wiki/Ranking_criteria/osu!taiko) • [osu!catch](/wiki/Ranking_criteria/osu!catch) • [osu!mania](/wiki/Ranking_criteria/osu!mania)
 
-</div>
-<div class="wiki-main-page-panel">
+::::
+:::: panel
 
 # Rules and legalese
 
@@ -78,8 +78,8 @@ Media regulations: [Content usage permissions](/wiki/Rules/Content_usage_permiss
 
 [Legal pages](/wiki/Legal): [Terms of Service](/wiki/Legal/Terms) • [Privacy](/wiki/Legal/Privacy) • [Copyright (DMCA)](/wiki/Legal/Copyright) • [Music licensing](/wiki/Legal/Music_licensing)
 
-</div>
-<div class="wiki-main-page-panel">
+::::
+:::: panel
 
 # Help
 
@@ -91,8 +91,8 @@ Profile restrictions: [Silences](/wiki/Help_centre/Silences) • [Account restri
 
 Do your part: [How and what to help with](/wiki/Community/How_you_can_help!) • [Report bad behaviour](/wiki/Reporting_bad_behaviour) • [Report abuse](/wiki/Reporting_bad_behaviour/Abuse) • [Report cheating](/wiki/Reporting_bad_behaviour/Handling_foul_play)
 
-</div>
-<div class="wiki-main-page-panel">
+::::
+:::: panel
 
 # [Community](/wiki/Community) and [projects](/wiki/Community/Projects)
 
@@ -108,8 +108,8 @@ Media: [Bespoke music](/wiki/Community/Bespoke_music) • [Manga](/wiki/Communit
 
 Organisations: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
 
-</div>
-<div class="wiki-main-page-panel">
+::::
+:::: panel
 
 # [People](/wiki/People)
 
@@ -119,8 +119,8 @@ osu! wouldn't have been possible without many users helping with development, ma
 
 [Community Contributors](/wiki/People/Community_Contributors) • [Elite Nominators](/wiki/People/Elite_Nominators) • [User groups](/wiki/People/User_groups) • [Users with unique titles](/wiki/People/Users_with_unique_titles) • [Centurions](/wiki/People/Centurions) • [Completionists](/wiki/People/Completionists) • [Performance Points Committee](/wiki/People/Performance_Points_Committee) • [osu! wiki maintainers](/wiki/People/osu!_wiki_maintainers)
 
-</div>
-<div class="wiki-main-page-panel">
+::::
+:::: panel
 
 # For developers
 
@@ -128,8 +128,8 @@ Interact with osu! via other applications and media, or help it grow further.
 
 [Announcement messages](/wiki/Announcement_messages) • [API](/wiki/osu!api) • [Bot account](/wiki/Bot_account) • [Brand identity guidelines](/wiki/Brand_identity_guidelines) • [osu! Discord server](/wiki/Community/Discord_servers#official)
 
-</div>
-<div class="wiki-main-page-panel">
+::::
+:::: panel
 
 # Wiki and meta pages
 
@@ -139,5 +139,5 @@ Just as almost everything out here, the osu! wiki is written and maintained by v
 
 [Sitemap](/wiki/Sitemap) • [Contribution guide](/wiki/osu!_wiki/Contribution_guide) • [Article styling criteria](/wiki/Article_styling_criteria) • [News styling criteria](/wiki/News_styling_criteria)
 
-</div>
-</div>
+::::
+:::
