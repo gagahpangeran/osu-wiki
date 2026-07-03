@@ -13,6 +13,16 @@ The developers of osu! keep the game and website running by fixing bugs and addi
 
 Developers of osu! can be recognised by their pink "osu!dev" or "osu!team" user titles and [user group](/wiki/People/User_groups) badge that reads `DEV`.
 
+test test test.
+
+::GPR::{ user=157 }
+
+wut ::peppy::{ user=2 } test.
+
+::name **bold** _italic_::{ user=3}
+
+waaaaaaaaaaaat.
+
 ## Team members
 
 The [Developers group page](https://osu.ppy.sh/groups/11) lists all of the team members.
