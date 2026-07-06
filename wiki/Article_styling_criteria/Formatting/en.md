@@ -3,6 +3,145 @@
 *For the writing standards, see: [Article style criteria/Writing](../Writing)*\
 *Notice: This article uses [RFC 2119](https://tools.ietf.org/html/rfc2119) to describe requirement levels.*
 
+::: alert-note
+**Note**
+Note body text.
+:::
+
+::: alert-tip
+**Tip**
+Tip body text.
+:::
+
+::: alert-notice
+**Notice**
+Notice body text.
+:::
+
+::: alert-warning
+**Warning**
+Warning body text.
+:::
+
+::: alert-caution
+**Caution**
+Caution body text.
+:::
+
+::: alert-note
+**Good to know**
+Custom title body text.
+:::
+
+---
+
+::: alert-note
+**Note** Note inline text.
+:::
+
+::: alert-tip
+**Tip** Tip inline text.
+:::
+
+::: alert-notice
+**Notice** Notice inline text.
+:::
+
+::: alert-warning
+**Warning** Warning inline text.
+:::
+
+::: alert-caution
+**Caution** Caution inline text.
+:::
+
+::: alert-note
+**See also** [foo](/link) and [bar](/link2).
+:::
+
+::: alert-note
+**Main page** [Index](/wiki/Main)
+:::
+
+::: alert-note
+**Note:** For other uses, see: [other](/wiki/other).
+:::
+
+---
+
+::: alert-note
+without leading bold
+:::
+
+::: alert-note
+without leading **bold**
+:::
+
+::: alert-note
+**Note** with more **bold**
+:::
+
+::: alert-note
+**Note**
+What happen if there are multiple paragraphs?
+Hmm?
+More line.
+:::
+
+::: alert-note
+**Note**
+
+What happen if there are multiple paragraphs with space?
+
+Hmm?
+
+More line.
+:::
+
+::: alert-note
+What happen if there are multiple paragraphs with space?
+
+Hmm?
+
+More line.
+:::
+
+::: alert-note
+**Note**
+
+paragraph 1
+
+paragraph 2
+:::
+
+::: alert-note
+**Note**
+paragraph 1
+
+paragraph 2
+:::
+
+---
+
+::: alert-note
+**Note:** For the writing standards, see [Article style criteria/Writing](../Writing)
+:::
+::: alert-notice
+**Notice:** This article uses [RFC 2119](https://tools.ietf.org/html/rfc2119) to describe requirement levels.
+:::
+
+Muhuhu
+
+::: alert-note
+**Note:** For the writing standards, see [Article style criteria/Writing](../Writing)
+:::
+
+::: alert-notice
+**Notice:** This article uses [RFC 2119](https://tools.ietf.org/html/rfc2119) to describe requirement levels.
+:::
+
+---
+
 ## Locales
 
 Listed below are the properly supported locales for the wiki:
